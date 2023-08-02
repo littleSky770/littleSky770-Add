@@ -3,6 +3,7 @@ public class Lab {
     /**
      * Let's say we're making a calculator app!
      *
+     * 
      * Instead of returning 0, this method should return the sum of two integers (ints).
      * Ints represent whole numbers in Java.
      *
